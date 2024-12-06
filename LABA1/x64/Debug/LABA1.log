@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\Ариночка\source\repos\LABA1\LABA1\main.cpp(137,15): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+C:\Users\Ариночка\source\repos\LABA1\LABA1\main.cpp(138,24): warning C4244: -=: преобразование "float" в "int", возможна потеря данных
+C:\Users\Ариночка\source\repos\LABA1\LABA1\main.cpp(147,15): warning C4244: -=: преобразование "float" в "int", возможна потеря данных
+C:\Users\Ариночка\source\repos\LABA1\LABA1\main.cpp(148,24): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+C:\Users\Ариночка\source\repos\LABA1\LABA1\main.cpp(157,12): warning C4244: -=: преобразование "float" в "int", возможна потеря данных
+C:\Users\Ариночка\source\repos\LABA1\LABA1\main.cpp(166,12): warning C4244: -=: преобразование "float" в "int", возможна потеря данных
+C:\Users\Ариночка\source\repos\LABA1\LABA1\main.cpp(172,39): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+C:\Users\Ариночка\source\repos\LABA1\LABA1\main.cpp(177,36): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Ариночка\source\repos\LABA1\LABA1\main.cpp(179,19): warning C4244: -=: преобразование "float" в "int", возможна потеря данных
+C:\Users\Ариночка\source\repos\LABA1\LABA1\main.cpp(186,38): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Ариночка\source\repos\LABA1\LABA1\main.cpp(210,22): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  LABA1.vcxproj -> C:\Users\Ариночка\source\repos\LABA1\x64\Debug\LABA1.exe
