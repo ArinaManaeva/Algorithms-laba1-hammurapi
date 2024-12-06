@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u0440\u0438\u043D\u043E\u0447\u043A\u0430\\Documents\\GitHub\\Algorithms-laba1-hammurapi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{761EBA05-A50A-41EA-BEAF-A135B6D6C02A}|LABA1\\LABA1.vcxproj|C:\\Users\\\u0410\u0440\u0438\u043D\u043E\u0447\u043A\u0430\\Documents\\GitHub\\Algorithms-laba1-hammurapi\\LABA1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{761EBA05-A50A-41EA-BEAF-A135B6D6C02A}|LABA1\\LABA1.vcxproj|solutionrelative:LABA1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u043E\u0447\u043A\u0430\\Documents\\GitHub\\Algorithms-laba1-hammurapi\\LABA1\\main.cpp",
+              "RelativeDocumentMoniker": "LABA1\\main.cpp",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u043E\u0447\u043A\u0430\\Documents\\GitHub\\Algorithms-laba1-hammurapi\\LABA1\\main.cpp",
+              "RelativeToolTip": "LABA1\\main.cpp",
+              "ViewState": "AgIAAGIBAAAAAAAAAAAAAIkBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T21:24:21.637Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
